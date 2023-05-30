@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "S2gjQEBImhSEnaG4WrGC4RmoEmh/0q0ut/WMOeCOM1Pkm91ndQegxiZSdjR9lYdkyk3nl9kbu/OnHJaMic3XAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anoni\\source\\repos\\CourseFEM\\CourseFEM\\CourseFEM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anoni\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\anoni\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\anoni\\.nuget\\packages\\oxyplot.windowsforms\\2.1.2\\oxyplot.windowsforms.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
