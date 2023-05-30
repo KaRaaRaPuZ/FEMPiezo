@@ -128,6 +128,7 @@
             this.RoTextBox.Name = "RoTextBox";
             this.RoTextBox.Size = new System.Drawing.Size(64, 23);
             this.RoTextBox.TabIndex = 8;
+            this.RoTextBox.Text = "4200";
             // 
             // CTextBox
             // 
@@ -135,6 +136,7 @@
             this.CTextBox.Name = "CTextBox";
             this.CTextBox.Size = new System.Drawing.Size(64, 23);
             this.CTextBox.TabIndex = 9;
+            this.CTextBox.Text = "203000000000";
             // 
             // ETextBox
             // 
@@ -142,6 +144,7 @@
             this.ETextBox.Name = "ETextBox";
             this.ETextBox.Size = new System.Drawing.Size(64, 23);
             this.ETextBox.TabIndex = 10;
+            this.ETextBox.Text = "-2.53";
             // 
             // GTextBox
             // 
@@ -149,6 +152,7 @@
             this.GTextBox.Name = "GTextBox";
             this.GTextBox.Size = new System.Drawing.Size(64, 23);
             this.GTextBox.TabIndex = 11;
+            this.GTextBox.Text = " 43.6";
             // 
             // SigmaTextBox
             // 
@@ -156,6 +160,7 @@
             this.SigmaTextBox.Name = "SigmaTextBox";
             this.SigmaTextBox.Size = new System.Drawing.Size(64, 23);
             this.SigmaTextBox.TabIndex = 12;
+            this.SigmaTextBox.Text = "5000000";
             // 
             // DTextBox
             // 
@@ -163,6 +168,7 @@
             this.DTextBox.Name = "DTextBox";
             this.DTextBox.Size = new System.Drawing.Size(64, 23);
             this.DTextBox.TabIndex = 13;
+            this.DTextBox.Text = "0";
             // 
             // NTextBox
             // 
@@ -170,6 +176,7 @@
             this.NTextBox.Name = "NTextBox";
             this.NTextBox.Size = new System.Drawing.Size(64, 23);
             this.NTextBox.TabIndex = 14;
+            this.NTextBox.Text = "256";
             // 
             // LTextBox
             // 
@@ -177,6 +184,7 @@
             this.LTextBox.Name = "LTextBox";
             this.LTextBox.Size = new System.Drawing.Size(64, 23);
             this.LTextBox.TabIndex = 15;
+            this.LTextBox.Text = "0.01";
             // 
             // button1
             // 
